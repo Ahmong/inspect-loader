@@ -1,2 +1,2 @@
 # inspect-loader
-Print the output of last loader and return it as it is. 
+Print the output of last loader and return the output as it is. 
